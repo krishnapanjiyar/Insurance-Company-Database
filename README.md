@@ -1,1 +1,1 @@
-# cs157a-project2
+# Learning database CS 157a
